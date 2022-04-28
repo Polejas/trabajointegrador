@@ -1,0 +1,35 @@
+nav {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+nav,
+
+.fondo,
+.btn-secondary {
+    background-color: rgb(65, 65, 65);
+}
+
+
+carousel-inner {
+
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+nav.navbar ul.nav {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+div.carousel-caption {
+    bottom: 15%;
+}
+
+.overlay {
+    text-align: right;
+    width: 40%;
+    position: absolute !important;
+    top: 50% !important;
+    right: 5% !important;
+    bottom: unset !important;
+    left: unset !important;
+    transform: translate(0, -50%);
+}
